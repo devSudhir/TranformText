@@ -1,0 +1,14 @@
+.alertBox {
+  width: 100%;
+  margin: auto;
+}
+#textInput {
+  height: 10rem;
+}
+#alertMsgBox {
+  display: none;
+}
+#wordCount,
+#timeCount {
+  font-weight: 500;
+}
